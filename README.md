@@ -183,28 +183,3 @@ TaskManagement/
 └── TaskManagement.ConsoleTest/   # Console test project
 ```
 
-## 🧪 Testing
-
-Run the console test project to verify basic functionality:
-
-```bash
-cd TaskManagement.ConsoleTest
-dotnet run
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For support, email support@taskmanagement.com or create an issue in the repository.</content>
-<parameter name="filePath">a:\TaskManagement\README.md
